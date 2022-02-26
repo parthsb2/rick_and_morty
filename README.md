@@ -6,7 +6,7 @@ The splash page allows us to filter characters by their species, gender and stat
 
 ![Splash page](./project-1-master/readme-images/splash_page_ss.png)
 
-![Display page](./readme-images/display_page_ss.png)
+![Display page](./project-1-master/readme-images/display_page_ss.png)
 
 Wins - 
 - Really like the look and feel of the splash page. 
