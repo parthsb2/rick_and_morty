@@ -4,7 +4,7 @@ This is a small Rick and Morty project that helps its users learn more about the
 
 The splash page allows us to filter characters by their species, gender and status (i.e. if they are dead or alive).
 
-![Splash page](./readme-images/splash_page_ss.png)
+![Splash page](./project-1-master/readme-images/splash_page_ss.png)
 
 ![Display page](./readme-images/display_page_ss.png)
 
